@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>ClipPick</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Sat, 25 Jul 2026 21:04:22 -0400</pubDate>
+            <sparkle:channel>staging</sparkle:channel>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://bigbencoder.github.io/clippick-releases/staging/ClipPick-0.1.0.zip" length="1437469" type="application/octet-stream" sparkle:edSignature="9yu0yZszeiGIDl5ak9BkWmavwWTgGhrLNxDcGqrxky2E+DP1MV6qDgwx3KYsw1QJ3T0HHHesCIrUSZbbQI4YBQ=="></enclosure>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: goNmB6RwweEO1dKlZ267VxcfPosvBQTOX4D+Lrwotza5rHnvob6VKxZYuLYb6LMj+uRhF0Vvs7EHYNq53pNuBA==
+length: 1169
+-->
