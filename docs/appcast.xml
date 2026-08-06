@@ -4,6 +4,21 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>ClipPick</title>
         <item>
+            <title>0.2.4</title>
+            <pubDate>Thu, 06 Aug 2026 15:17:19 -0400</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>0.2.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://bigbencoder.github.io/clippick-releases/downloads/ClipPick-0.2.4.zip" length="1903014" type="application/octet-stream" sparkle:edSignature="XDQelzqJ3NL8U5baa2InU5Fp3UCgvqtnaEfFbb/Ifs7IOyr8PrsR/sPcg6Zhbyth920xYjTfxw3NsnR1RjHsBQ=="></enclosure>
+            <sparkle:deltas>
+                <enclosure url="https://bigbencoder.github.io/clippick-releases/downloads/ClipPick7-5.delta" sparkle:deltaFrom="5" length="168254" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="3m9FL2wVEwiTfKhZe+mUIXr7Ev6+JhmZxXxbwGFyDMYkSQdBNkfXlx6zV2AMBUXwBKDif3Ud4saEBsUDCyxADA=="></enclosure>
+                <enclosure url="https://bigbencoder.github.io/clippick-releases/downloads/ClipPick7-4.delta" sparkle:deltaFrom="4" length="212462" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="jzH3mq4C54OX2IzvrO2iYZKM2mA8KMYTbSZ9rbEN+SIxAC9kDpXMpfrDk9gfxLpFYgkMIZ4LLwQm+/uFHJfXDg=="></enclosure>
+                <enclosure url="https://bigbencoder.github.io/clippick-releases/downloads/ClipPick7-3.delta" sparkle:deltaFrom="3" length="219762" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Wou5QkZKLCMAu38KmLTW+kSU6oR7VGKFJY91TshsFoFW1JE+TvVsb70VFpbjnOC9BUgjtGVfRCA6OCthvj4/Cw=="></enclosure>
+                <enclosure url="https://bigbencoder.github.io/clippick-releases/downloads/ClipPick7-2.delta" sparkle:deltaFrom="2" length="235682" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="9lI6KexdSmS3/lwlhYwfUA0r6l4w3d6MAI3UlOUXcteo0BAJJRIToEbcVjhgQavEz2W0HfcgLMM0IQ5hf+YZCw=="></enclosure>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.2.3</title>
             <pubDate>Wed, 05 Aug 2026 09:20:09 -0400</pubDate>
             <sparkle:version>5</sparkle:version>
@@ -11,11 +26,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://bigbencoder.github.io/clippick-releases/downloads/ClipPick-0.2.3.zip" length="1878506" type="application/octet-stream" sparkle:edSignature="2BtRhveXxNXpy4c3v916rUS2MrSo/teg5fcDH9YV2fLx06hflxhXcAEzyErMhvVdUC1k0a6R6EEO0hLTWTX8Dw=="></enclosure>
-            <sparkle:deltas>
-                <enclosure url="https://bigbencoder.github.io/clippick-releases/downloads/ClipPick5-4.delta" sparkle:deltaFrom="4" length="147890" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="+q10/JpwAL6HGL4GpYgsDq7pCz/rTIFOfExTQJsakAdU2c48ApHD5o87GtfBA9bUQxmj2TvPrN7L//eBR0xFBQ=="></enclosure>
-                <enclosure url="https://bigbencoder.github.io/clippick-releases/downloads/ClipPick5-3.delta" sparkle:deltaFrom="3" length="154822" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="8k+wMYG6S4Ow/vVuq74Tn4wjxE6XfiymC/i/y+RPy+aSpO7wS/3+14YevufUu947xYNl5928ALdqa5EcjNsIBw=="></enclosure>
-                <enclosure url="https://bigbencoder.github.io/clippick-releases/downloads/ClipPick5-2.delta" sparkle:deltaFrom="2" length="176218" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="IDtR2Qme9k2Zd1Gx5voXBvbxPpLcnsXy3ZcsyFA5SGTyiHovAVZPAa/8jMwqinvChDbHISwQWn63w5ujwFWFCQ=="></enclosure>
-            </sparkle:deltas>
         </item>
         <item>
             <title>0.2.2</title>
@@ -26,17 +36,8 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://bigbencoder.github.io/clippick-releases/downloads/ClipPick-0.2.2.zip" length="1865432" type="application/octet-stream" sparkle:edSignature="G8vL2E819uc27TKZWfpZ9SSJVcDefbqzte5n7oEpTLSyuyK8+tXhOUM/zxNiwYrzqJIssxYHR3Qo6U5jpw0aCw=="></enclosure>
         </item>
-        <item>
-            <title>0.2.1</title>
-            <pubDate>Sun, 26 Jul 2026 21:50:13 -0400</pubDate>
-            <sparkle:version>3</sparkle:version>
-            <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://bigbencoder.github.io/clippick-releases/downloads/ClipPick-0.2.1.zip" length="1860341" type="application/octet-stream" sparkle:edSignature="VQaNH6tUmDn0xL+UnF2z7ufCBaGJtUbDSVGptjwoPa35gwuQnjFCYA7XNB41JSHGqOFmpqlM+5InhFsIHj0kBQ=="></enclosure>
-        </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: LzK7pA1CierTydgg8e9qyl2T9yz2E/Pra+jFHHHmEJFOAoiZ/AmKrt9bKXsSyGLayCbuA/3VK3R7PcssevlqDQ==
-length: 3767
+edSignature: 9AD/Ag5VJNFWY5Z5r61ddnD+3TiQV4ZsB6EABVwAMkio0ktAoDNsrwWCHjlAXFwdNuGhcJaii4out/OwTVLKAA==
+length: 4173
 -->
