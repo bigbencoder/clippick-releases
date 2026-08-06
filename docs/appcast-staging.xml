@@ -5,19 +5,19 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>ClipPick</title>
         <item>
             <title>0.2.4</title>
-            <pubDate>Thu, 06 Aug 2026 14:48:13 -0400</pubDate>
+            <pubDate>Thu, 06 Aug 2026 15:16:43 -0400</pubDate>
             <sparkle:channel>staging</sparkle:channel>
-            <sparkle:version>6</sparkle:version>
+            <sparkle:version>7</sparkle:version>
             <sparkle:shortVersionString>0.2.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://bigbencoder.github.io/clippick-releases/staging/ClipPick-0.2.4.zip" length="1902819" type="application/octet-stream" sparkle:edSignature="s3lN39ZklksmD/thgb7wyQcuVS9Gf5jeKsLoqyObhdxVxePEqG/xKP6vgzhZsookW1IHgszgc/bZjqsHFPE9AA=="></enclosure>
+            <enclosure url="https://bigbencoder.github.io/clippick-releases/staging/ClipPick-0.2.4.zip" length="1903014" type="application/octet-stream" sparkle:edSignature="XDQelzqJ3NL8U5baa2InU5Fp3UCgvqtnaEfFbb/Ifs7IOyr8PrsR/sPcg6Zhbyth920xYjTfxw3NsnR1RjHsBQ=="></enclosure>
             <sparkle:deltas>
-                <enclosure url="https://bigbencoder.github.io/clippick-releases/staging/ClipPick6-5.delta" sparkle:deltaFrom="5" length="168294" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="dEIkpV2iWnUYhcusF043FXex6HpM/1Tac7JIIJHRfM3kV7To54TXxcNVimvWOvr/FxQ+Ayf7VoKxFHzNGkMlDw=="></enclosure>
-                <enclosure url="https://bigbencoder.github.io/clippick-releases/staging/ClipPick6-4.delta" sparkle:deltaFrom="4" length="212066" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="B5jGvdibM61F3DmLSMEeAjIr9VeqAvoAhyGwlHMoea2R6Yu1/OThCVzuD5hXGjEa8hQEbGEWRIwBdme66jZqAA=="></enclosure>
-                <enclosure url="https://bigbencoder.github.io/clippick-releases/staging/ClipPick6-3.delta" sparkle:deltaFrom="3" length="216206" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="uNxZOGztyj47POMZb3t8udfM7XkgcPaSxb8saUEdzca11V8LKcbCpI3Ltskujy7OfqwtlgOCC7wWIRi8HxRdBQ=="></enclosure>
-                <enclosure url="https://bigbencoder.github.io/clippick-releases/staging/ClipPick6-2.delta" sparkle:deltaFrom="2" length="237022" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="knHUagK/25+iOllHRSUQAs9jIAx9E/NN6pRfw6bXVtQdimAzzGNzyjvQ7GR+UhJwZ2MatXNVS1erFqTevTDRCA=="></enclosure>
-                <enclosure url="https://bigbencoder.github.io/clippick-releases/staging/ClipPick6-1.delta" sparkle:deltaFrom="1" length="506814" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="tc5mVokhQI6IxryeOBb/le4qNyNlhCkrxltHrrNKSgcwbP97E8ffLAWLrOQ9ZbrZGtYA9148aNHXzsM+jQ+WCw=="></enclosure>
+                <enclosure url="https://bigbencoder.github.io/clippick-releases/staging/ClipPick7-5.delta" sparkle:deltaFrom="5" length="168254" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="3m9FL2wVEwiTfKhZe+mUIXr7Ev6+JhmZxXxbwGFyDMYkSQdBNkfXlx6zV2AMBUXwBKDif3Ud4saEBsUDCyxADA=="></enclosure>
+                <enclosure url="https://bigbencoder.github.io/clippick-releases/staging/ClipPick7-4.delta" sparkle:deltaFrom="4" length="212462" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="jzH3mq4C54OX2IzvrO2iYZKM2mA8KMYTbSZ9rbEN+SIxAC9kDpXMpfrDk9gfxLpFYgkMIZ4LLwQm+/uFHJfXDg=="></enclosure>
+                <enclosure url="https://bigbencoder.github.io/clippick-releases/staging/ClipPick7-3.delta" sparkle:deltaFrom="3" length="219762" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Wou5QkZKLCMAu38KmLTW+kSU6oR7VGKFJY91TshsFoFW1JE+TvVsb70VFpbjnOC9BUgjtGVfRCA6OCthvj4/Cw=="></enclosure>
+                <enclosure url="https://bigbencoder.github.io/clippick-releases/staging/ClipPick7-2.delta" sparkle:deltaFrom="2" length="235682" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="9lI6KexdSmS3/lwlhYwfUA0r6l4w3d6MAI3UlOUXcteo0BAJJRIToEbcVjhgQavEz2W0HfcgLMM0IQ5hf+YZCw=="></enclosure>
+                <enclosure url="https://bigbencoder.github.io/clippick-releases/staging/ClipPick7-1.delta" sparkle:deltaFrom="1" length="507370" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Jt4bU/jsZuKh87wAhDbvZl0jkieDI+WD+aJ3mzLQrTU+1o/Pdx3prGkD0FSfmoL1a796IKjpWxepwrowEo73BQ=="></enclosure>
             </sparkle:deltas>
         </item>
         <item>
@@ -42,6 +42,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: GWfJyyA4zY9jdrTrkmvf7MkeCWaUIEXeTGtefSvArGKqhcR4PS987TbOKKSymCjR7IHuueEtiewAobXOnaP9AA==
+edSignature: D0Y4HwH8eALM3BSnDspA5mUn289dcQ+di2KAvzrXqWVan9IBfv/lRrR9A7iSAw0bhm6yipYJIkqYCPLRxU2NCA==
 length: 4728
 -->
